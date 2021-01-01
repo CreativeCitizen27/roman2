@@ -1,0 +1,12 @@
+src/kata/roman2/ihm/Printer.class
+src/kata/roman2/RomanTypeConverter.class
+src/kata/roman2/RomanHundredsConverter.class
+src/kata/roman2/PrinterRomanNumber.class
+src/kata/roman2/RomanTensConverter.class
+src/kata/roman2/ihm/Roman.class
+src/kata/roman2/RomanFigureConverter.class
+src/kata/roman2/ReadAlgebricNumber.class
+src/kata/roman2/ihm/Reader.class
+src/kata/roman2/RomanConverter.class
+src/kata/roman2/RomanRulesConverter.class
+src/kata/roman2/RomanConverterFactory.class
