@@ -17,7 +17,7 @@ public class Roman {
 			printer.print();
 			System.out.println();
 		}
-		System.out.println("#### END ####");
+		System.out.println("#### END - FINISHED ####");
 	}
 
 }
